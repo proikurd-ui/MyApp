@@ -1,1 +1,1 @@
-Install Update
+MyApp 2.0
